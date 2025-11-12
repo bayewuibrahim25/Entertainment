@@ -9,6 +9,6 @@
 **Wire frames**: simple sketches (phone photo is fine or ascil wireframe
 
 **Tools and resources**: VS Code, browser decvtools , github , image sources
-.
+
 **Short history of HTML/CSS evolution**(2-3 paragraphs and list/explain 4 HTML tags and 4 CSS techniques you'll use.
 
