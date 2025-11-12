@@ -1,4 +1,6 @@
-**Purpose** My portfolio demonstrates HTML/CSS skills and showcases entertainment content.
+## **Purpose** 
+
+My portfolio demonstrates HTML/CSS skills and showcases entertainment content.
 
 #The purpose of this website is to demonstrae my understanding of HTML and CSS by designing and building a small entertainment portfolio.
 
@@ -6,7 +8,9 @@
 
 #It will use semantic HTML elements external, CSS , and include interactive features such as table, form, and navigation links.
 
-**Target audeince** the website is designed for:
+## **Target audience** 
+
+The website is designed for:
 
 #Young adults aged 18-25 who enjoy entertainment content such as movies, music, and gaming.
 
@@ -16,7 +20,7 @@
 
 The design will focus on being engaging, easy to navigate, and suitablefor both desktop and mobile viewing.
 
-**Page outlines** what goes on index.html page2.html page3.html and why.
+## **Page outlines** what goes on index.html page2.html page3.html and why.
 
 **Design decision**: color theme , typography, layout choices, navigation structure.
 
