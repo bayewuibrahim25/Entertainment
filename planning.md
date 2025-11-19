@@ -1,24 +1,24 @@
 ## *Purpose*
 
-My portfolio demonstrates HTML/CSS skills and showcases entertainment content.
+- My portfolio demonstrates HTML/CSS skills and showcases entertainment content.
 
-#The purpose of this website is to demonstrae my understanding of HTML and CSS by designing and building a small entertainment portfolio.
+- The purpose of this website is to demonstrae my understanding of HTML and CSS by designing and building a small entertainment portfolio.
 
-#The site aims to showcase different entertainment such as music, movies and games, while also meeting assignment requriements for structure, layout, and accessibility.
+- The site aims to showcase different entertainment such as music, movies and games, while also meeting assignment requriements for structure, layout, and accessibility.
 
-#It will use semantic HTML elements external, CSS , and include interactive features such as table, form, and navigation links.
+- It will use semantic HTML elements external, CSS , and include interactive features such as table, form, and navigation links.
 
 ## *Target audience* 
 
 The website is designed for:
 
-#Young adults aged 18-25 who enjoy entertainment content such as movies, music, and gaming.
+- Young adults aged 18-25 who enjoy entertainment content such as movies, music, and gaming.
 
-#Classmates and teachers who will assess my HTML and CSS skills
+- Classmates and teachers who will assess my HTML and CSS skills
 
-#Anyone interested in seeing an example of a student-designed entertainment website
+- Anyone interested in seeing an example of a student-designed entertainment website
 
-The design will focus on being engaging, easy to navigate, and suitablefor both desktop and mobile viewing.
+- The design will focus on being engaging, easy to navigate, and suitablefor both desktop and mobile viewing.
 
 ## *Page outlines what goes on index.html page2.html page3.html and why.*
 ### *page2.html – Gallery and Reviews*
@@ -69,7 +69,7 @@ The design will focus on being engaging, easy to navigate, and suitablefor both 
 
 ## *Short History of HTML and CSS*
 HTML (HyperText Markup Language) was created in the early 1990s by Tim Berners-Lee to structure content on the World Wide Web. Over time, new versions introduced better semantics and multimedia support.  
-HTML5, introduced in 2014, added elements such as <header>, <main>, <section>, <article>, and <footer>, allowing for more organized and accessible web content.
+HTML5, introduced in 2014, added elements such as header, main, section, article, and footer, allowing for more organized and accessible web content.
 
 CSS (Cascading Style Sheets) was introduced later to separate content from presentation. CSS3 added features like gradients, animations, and media queries, which enable responsive and visually appealing designs for different devices.
 
@@ -77,16 +77,16 @@ CSS (Cascading Style Sheets) was introduced later to separate content from prese
 
 ## *HTML Tags and CSS Techniques Used*
 ### *HTML Tags*
-1. <header> – Defines the top section containing the logo and navigation links  
-2. <section> – Groups related content in the main area  
-3. <table> – Displays structured data (e.g., movie list)  
-4. <form> – Collects user input on the contact page  
+-  <header> – Defines the top section containing the logo and navigation links  
+-  <section> – Groups related content in the main area  
+-  <table> – Displays structured data (e.g., movie list)  
+-  <form> – Collects user input on the contact page  
 
 ### *CSS Techniques*
-1. *Element, Class, and ID Selectors* – To style specific parts of the site  
-2. *Pseudo-classes* – Such as :hover for interactive navigation links  
-3. *Box Model and Flexbox* – To manage spacing and responsive layouts  
-4. *Media Queries* – To adjust layout for different screen sizes  
+-  *Element, Class, and ID Selectors* – To style specific parts of the site  -
+-   *Pseudo-classes* – Such as :hover for interactive navigation links  
+-   Box Model and Flexbox* – To manage spacing and responsive layouts  
+  -   edia Queries* – To adjust layout for different screen sizes  
 
 ---
 
