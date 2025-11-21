@@ -32,7 +32,7 @@ The website is designed for:
 - Radio buttons for preferred contact method  
 - Submit button  
 - Links to social media or credits section  
-- Footer with copyright entity (&copy; 2025 Michael)
+- Footer with copyright entity (&copy; 2025 Ibrahim)
 
 ---
 
@@ -61,9 +61,7 @@ The website is designed for:
 ## *Tools and Resources*
 - *VS Code* – for editing HTML and CSS  
 - *GitHub* – for version control and hosting  
-- *W3C Validators* – to check for HTML/CSS errors  
-- *Unsplash / Pexels* – for royalty-free images  
-- *Google Fonts* – for typography options  
+
 
 ---
 
