@@ -29,8 +29,7 @@ The website is designed for:
 
 ### *page3.html – Contact Page*
 - Contact form with fields for name, email, age, and message  
-- Radio buttons for preferred contact method  
-- Submit button  
+  - Submit button  
 - Links to social media or credits section  
 - Footer with copyright entity (&copy; 2025 Ibrahim)
 
@@ -40,7 +39,7 @@ The website is designed for:
 ### *Color Scheme*
 - Primary: Dark background (charcoal or black)  
 - Accent: Bright neon color (#333)  
-- Text: White and light gray for contrast  
+- Text: White  
 
 ### *Typography*
 - Font Family: "Segoe UI", Roboto, Arial, sans-serif for readability  
