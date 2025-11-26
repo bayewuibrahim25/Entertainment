@@ -39,7 +39,7 @@ The website is designed for:
 ## *Design Decisions*
 ### *Color Scheme*
 - Primary: Dark background (charcoal or black)  
-- Accent: Bright neon color (pink #E03E6E or blue #3EC1E0)  
+- Accent: Bright neon color (#333)  
 - Text: White and light gray for contrast  
 
 ### *Typography*
