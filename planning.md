@@ -29,7 +29,7 @@ The website is designed for:
 
 ### *page3.html – Contact Page*
 - Contact form with fields for name, email, age, and message  
-  - Submit button  
+- Submit button  
 - Links to social media or credits section  
 - Footer with copyright entity (&copy; 2025 Ibrahim)
 
