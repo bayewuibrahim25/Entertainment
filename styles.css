@@ -199,7 +199,12 @@
           
             */
         }
-        
+        img {
+            width: auto;
+            max-height: auto;
+            display: block;
+        }
+
         /* 
             ========================================
             FOOTER STYLES
