@@ -23,8 +23,7 @@ The website is designed for:
 ## *Page outlines what goes on index.html page2.html page3.html and why.*
 ### *page2.html – Gallery and Reviews*
 - A gallery of images from movies, music artists, or game covers  
-- Ordered and unordered lists (e.g., “Top 5 Movies,” “Favorite Artists”)  
-- Short reviews or descriptions under each image  
+- Ordered and unordered lists (e.g., “Top 3 Movies,” “Favorite Artists”)  
 - Responsive layout for different screen sizes  
 
 ### *page3.html – Contact Page*
