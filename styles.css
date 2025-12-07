@@ -200,8 +200,8 @@
             */
         }
         img {
-            width: auto;
-            max-height: auto;
+            width: 100px;
+            height: auto;
             display: block;
         }
 
