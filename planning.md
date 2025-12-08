@@ -90,3 +90,7 @@ CSS (Cascading Style Sheets) was introduced later to separate content from prese
 (insert the photo of sketches as a file on github.)
 
 
+[InternetShortcut][InternetShortcut]
+URL=https://github.com/bayewuibrahim25/Entertainment/blob/main/images/sketch1.jpeg
+
+URL=https://github.com/bayewuibrahim25/Entertainment/blob/main/images/sketch%202.jpeg
