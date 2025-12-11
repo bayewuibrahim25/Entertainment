@@ -79,10 +79,10 @@ CSS (Cascading Style Sheets) was introduced later to separate content from prese
 -  <form> – Collects user input on the contact page  
 
 ### *CSS Techniques*
--  *Element, Class, and ID Selectors* – To style specific parts of the site  -
--   *Pseudo-classes* – Such as :hover for interactive navigation links  
--   Box Model and Flexbox* – To manage spacing and responsive layouts  
-  -   edia Queries* – To adjust layout for different screen sizes  
+– To style specific parts of the site  -
+- for interactive navigation links  
+- To manage spacing and responsive layouts
+- To adjust layout for different screen sizes  
 
 ---
 
