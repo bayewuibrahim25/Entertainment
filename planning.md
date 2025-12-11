@@ -36,9 +36,9 @@ The website is designed for:
 
 ## *Design Decisions*
 ### *Color Scheme*
-- Primary: Dark background (charcoal or black)  
+- Primary: Blue background
 - Accent: Bright neon color (#333)  
-- Text: White  
+- Text: black 
 
 ### *Typography*
 - Font Family: "Segoe UI", Roboto, Arial, sans-serif for readability  
