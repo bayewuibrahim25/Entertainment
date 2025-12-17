@@ -20,13 +20,13 @@ The website is designed for:
 
 - The design will focus on being engaging, easy to navigate, and suitablefor both desktop and mobile viewing.
 
-## *Page outlines what goes on index.html page2.html page3.html and why.*
-### *page2.html – Gallery and Reviews*
+## *Page outlines what goes on index.html galleryreviews.html conatct.html and why.*
+### *galleryreviews.html – Gallery and Reviews*
 - A gallery of images from movies, music artists, or game covers  
 - Ordered and unordered lists (e.g., “Top 3 Movies,” “Favorite Artists”)  
 - Responsive layout for different screen sizes  
 
-### *page3.html – Contact Page*
+### *contact.html – Contact Page*
 - Contact form with fields for name, email, age, and message  
 - Submit button  
 - Links to social media or credits section  
