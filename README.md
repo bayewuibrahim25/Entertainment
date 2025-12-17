@@ -8,7 +8,7 @@ Ibrahim Entertainment Picks is a personal portfolio website created as part of t
 ### index.html
 The homepage introduces the website and highlights my top entertainment picks. It includes images, text content, and a data table displaying ratings.
 
-### gallerry reviews.html
+### gallerryreviews.html
 This page provides more detailed entertainment content, including lists of favourite artists, movies, and games. It demonstrates the use of ordered and unordered lists and structured sections.
 
 ### contact.html
