@@ -1,90 +1,47 @@
-## *Purpose*
+## Portfolio Purpose
+The purpose of this portfolio website is to showcase my web authoring skills using HTML5 and CSS3. The website presents my personal entertainment recommendations, including music, movies, and games, while demonstrating my understanding of semantic HTML, layout structure, styling, and accessibility.
 
-- My portfolio demonstrates HTML/CSS skills and showcases entertainment content.
+## Target Audience
+The target audience for this website is young adults and students who are interested in entertainment recommendations. It is also aimed at my web development lecturer as evidence of my learning and practical skills in web authoring.
 
-- The purpose of this website is to demonstrae my understanding of HTML and CSS by designing and building a small entertainment portfolio.
+## Page Planning and Content
 
-- The site aims to showcase different entertainment such as music, movies and games, while also meeting assignment requriements for structure, layout, and accessibility.
+### index.html
+The homepage introduces the website and presents my top entertainment picks. It includes sections for music, movies, and games, along with images and short descriptions. This page is designed to immediately engage the user and explain the purpose of the site.
 
-- It will use semantic HTML elements external, CSS , and include interactive features such as table, form, and navigation links.
+### galleryreviews.html
+This page focuses on detailed entertainment categories, such as favourite artists, top movies, and popular games. It includes lists and images to demonstrate different HTML elements and structured content.
 
-## *Target audience* 
+### contact.html
+This page is designed as a contact page. It includes a form where users can submit their name, email address, and a message. This page demonstrates form elements and user interaction.
 
-The website is designed for:
+## Design Decisions
+I chose a dark-themed color scheme with contrasting text to create a modern and visually appealing entertainment website. Fonts were kept simple and readable to ensure accessibility. Spacing, padding, and margins were used consistently to keep the layout clean and organised.
 
-- Young adults aged 18-25 who enjoy entertainment content such as movies, music, and gaming.
+## Navigation Structure
+The website uses a navigation bar at the top of each page with links to all three pages. This ensures consistent navigation and allows users to move easily between sections of the site.
 
-- Classmates and teachers who will assess my HTML and CSS skills
+## Technologies and Tools
+- HTML5
+- CSS3
+- Visual Studio Code
+- GitHub and GitHub Pages
+- Web browser developer tools
 
-- Anyone interested in seeing an example of a student-designed entertainment website
+## HTML and CSS Evolution
+HTML has evolved from a simple markup language used to structure text into HTML5, which includes semantic elements like header, nav, main, and footer. These elements improve accessibility and readability. CSS has also evolved significantly, allowing developers to control layout, colors, fonts, and responsiveness, separating content from presentation.
 
-- The design will focus on being engaging, easy to navigate, and suitablefor both desktop and mobile viewing.
+## HTML Tags Used
+- <header>: Used to contain the site title and navigation.
+- <nav>: Provides navigation links between pages.
+- <section>: Groups related content such as music, movies, and games.
+- <table>: Displays structured data for entertainment ratings.
 
-## *Page outlines what goes on index.html galleryreviews.html conatct.html and why.*
-### *galleryreviews.html – Gallery and Reviews*
-- A gallery of images from movies, music artists, or game covers  
-- Ordered and unordered lists (e.g., “Top 3 Movies,” “Favorite Artists”)  
-- Responsive layout for different screen sizes  
-
-### *contact.html – Contact Page*
-- Contact form with fields for name, email, age, and message  
-- Submit button  
-- Links to social media or credits section  
-- Footer with copyright entity (&copy; 2025 Ibrahim)
-
----
-
-## *Design Decisions*
-### *Color Scheme*
-- Primary: Blue background
-- Accent: Bright neon color (#333)  
-- Text: black 
-
-### *Typography*
-- Font Family: "Segoe UI", Roboto, Arial, sans-serif for readability  
-- Font Sizes: Clear hierarchy (larger headings, medium body text)
-
-### *Layout*
-- Consistent header and navigation bar on all pages  
-- Main content divided into sections  
-- Footer with links and copyright symbol  
-- Responsive grid or flex layout for images on the gallery page  
-
-### *Navigation*
-- A simple horizontal navigation bar with links:  
-  Home | Gallery & Reviews | Contact
-
----
-
-## *Tools and Resources*
-- *VS Code* – for editing HTML and CSS  
-- *GitHub* – for version control and hosting  
-
-
----
-
-## *Short History of HTML and CSS*
-HTML (HyperText Markup Language) was created in the early 1990s by Tim Berners-Lee to structure content on the World Wide Web. Over time, new versions introduced better semantics and multimedia support.  
-HTML5, introduced in 2014, added elements such as header, main, section, article, and footer, allowing for more organized and accessible web content.
-
-CSS (Cascading Style Sheets) was introduced later to separate content from presentation. CSS3 added features like gradients, animations, and media queries, which enable responsive and visually appealing designs for different devices.
-
----
-
-## *HTML Tags and CSS Techniques Used*
-### *HTML Tags*
--  <header> – Defines the top section containing the logo and navigation links  
--  <section> – Groups related content in the main area  
--  <table> – Displays structured data (e.g., movie list)  
--  <form> – Collects user input on the contact page  
-
-### *CSS Techniques*
-– To style specific parts of the site  -
-- for interactive navigation links  
-- To manage spacing and responsive layouts
-- To adjust layout for different screen sizes  
-
----
+## CSS Properties and Techniques
+- background-color: Used to define the site’s color scheme.
+- font-family: Ensures readable and consistent typography.
+- margin and padding: Create spacing between elements.
+- border-radius: Adds subtle styling to containers and images.
 
 ## *Sketches*
 (insert the photo of sketches as a file on github.)
