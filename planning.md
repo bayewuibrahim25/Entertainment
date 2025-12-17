@@ -89,8 +89,6 @@ CSS (Cascading Style Sheets) was introduced later to separate content from prese
 ## *Sketches*
 (insert the photo of sketches as a file on github.)
 
+![First Sketch](images/sketch1.jpeg "This is my first sketch")
 
-[InternetShortcut][InternetShortcut]
-URL=https://github.com/bayewuibrahim25/Entertainment/blob/main/images/sketch1.jpeg
-
-URL=https://github.com/bayewuibrahim25/Entertainment/blob/main/images/sketch%202.jpeg
+![Second Sketch](images/sketch%202.jpeg "This is my Second Sketch")
