@@ -33,7 +33,7 @@ The contact page includes a form where users can enter their name, email address
 
 ## Live Website
 The website is hosted using GitHub Pages and can be viewed online.
-
+https://bayewuibrahim25.github.io/Entertainment/
 ## Credits and Attributions
 All content was created by me for educational purposes. Images used are for demonstration only and are not used commercially.
 
